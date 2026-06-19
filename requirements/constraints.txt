@@ -68,8 +68,10 @@ exceptiongroup==1.3.1
     # via pytest
 execnet==2.1.2
     # via pytest-xdist
-filelock==3.20.0
-    # via virtualenv
+filelock==3.29.4
+    # via
+    #   python-discovery
+    #   virtualenv
 forbiddenfruit==0.1.4
     # via blockbuster
 freezegun==1.5.5
@@ -136,7 +138,9 @@ pip-tools==7.5.2
 pkgconfig==1.5.5
     # via -r requirements/test-common.in
 platformdirs==4.5.1
-    # via virtualenv
+    # via
+    #   python-discovery
+    #   virtualenv
 pluggy==1.6.0
     # via
     #   pytest
@@ -192,6 +196,8 @@ pytest-xdist==3.8.0
     # via -r requirements/test-common.in
 python-dateutil==2.9.0.post0
     # via freezegun
+python-discovery==1.4.2
+    # via virtualenv
 python-on-whales==0.81.0
     # via
     #   -r requirements/lint.in
@@ -273,7 +279,7 @@ uvloop==0.21.0 ; platform_system != "Windows"
     #   -r requirements/lint.in
 valkey==6.1.1
     # via -r requirements/lint.in
-virtualenv==20.35.4
+virtualenv==21.5.1
     # via pre-commit
 wait-for-it==2.3.0
     # via -r requirements/test-common.in
