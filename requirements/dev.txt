@@ -196,7 +196,7 @@ pyyaml==6.0.3
     # via pre-commit
 requests==2.34.2
     # via sphinx
-rich==14.2.0
+rich==15.0.0
     # via pytest-codspeed
 setuptools-git==1.2
     # via -r requirements/test-common.in
