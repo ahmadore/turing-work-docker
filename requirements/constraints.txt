@@ -60,7 +60,7 @@ cryptography==46.0.3
     # via trustme
 cython==3.2.2
     # via -r requirements/cython.in
-distlib==0.4.0
+distlib==0.4.3
     # via virtualenv
 docutils==0.21.2
     # via sphinx
