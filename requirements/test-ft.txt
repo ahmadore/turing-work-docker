@@ -12,6 +12,8 @@ aiosignal==1.4.0
     # via -r requirements/runtime-deps.in
 annotated-types==0.7.0
     # via pydantic
+ast-serialize==0.5.0
+    # via mypy
 async-timeout==5.0.1 ; python_version < "3.11"
     # via -r requirements/runtime-deps.in
 backports-zstd==1.6.0 ; platform_python_implementation == "CPython" and python_version < "3.14"
@@ -64,7 +66,7 @@ multidict==6.7.0
     # via
     #   -r requirements/runtime-deps.in
     #   yarl
-mypy==1.19.0 ; implementation_name == "cpython"
+mypy==2.1.0 ; implementation_name == "cpython"
     # via -r requirements/test-common.in
 mypy-extensions==1.1.0
     # via mypy
