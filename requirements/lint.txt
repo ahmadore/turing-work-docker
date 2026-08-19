@@ -12,7 +12,7 @@ ast-serialize==0.8.0
     # via mypy
 async-timeout==5.0.1
     # via valkey
-backports-zstd==1.6.0 ; implementation_name == "cpython"
+backports-zstd==1.7.0 ; implementation_name == "cpython"
     # via -r requirements/lint.in
 blockbuster==1.5.26
     # via -r requirements/lint.in
