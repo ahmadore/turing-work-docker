@@ -26,7 +26,7 @@ async-timeout==5.0.1 ; python_version < "3.11"
     #   valkey
 babel==2.18.0
     # via sphinx
-backports-zstd==1.6.0 ; implementation_name == "cpython"
+backports-zstd==1.7.0 ; implementation_name == "cpython"
     # via
     #   -r requirements/lint.in
     #   -r requirements/runtime-deps.in
