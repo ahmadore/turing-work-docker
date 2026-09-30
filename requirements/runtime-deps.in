@@ -8,6 +8,6 @@ backports.zstd; platform_python_implementation == 'CPython' and python_version <
 Brotli; platform_python_implementation == 'CPython'
 brotlicffi; platform_python_implementation != 'CPython'
 frozenlist >= 1.1.1
-multidict >=4.5, < 7.0
+multidict >= 4.5, < 8.0
 propcache >= 0.2.0
 yarl >= 1.17.0, < 2.0
