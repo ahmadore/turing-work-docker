@@ -37,7 +37,7 @@ dependencies = [
   "aiosignal >= 1.4.0",
   "async-timeout >= 4.0, < 6.0 ; python_version < '3.11'",
   "frozenlist >= 1.1.1",
-  "multidict >=4.5, < 7.0",
+  "multidict >= 4.5, < 8.0",
   "propcache >= 0.2.0",
   "yarl >= 1.17.0, < 2.0",
 ]
