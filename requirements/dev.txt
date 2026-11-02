@@ -120,7 +120,7 @@ mypy==2.4.1 ; implementation_name == "cpython"
     #   -r requirements/test-common.in
 mypy-extensions==1.1.0
     # via mypy
-nodeenv==1.11.0
+nodeenv==1.11.1
     # via pre-commit
 packaging==26.3
     # via
