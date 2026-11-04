@@ -73,7 +73,7 @@ pytest==9.2.0
     #   pytest-cov
     #   pytest-mock
     #   pytest-xdist
-pytest-codspeed==5.0.3
+pytest-codspeed==5.0.4
     # via -r requirements/test-common.in
 pytest-cov==7.1.0
     # via -r requirements/test-common.in
