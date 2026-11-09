@@ -122,7 +122,7 @@ typing-extensions==4.16.0
     #   python-on-whales
     #   typing-inspection
     #   virtualenv
-typing-inspection==0.4.4
+typing-inspection==0.4.5
     # via pydantic
 tzdata==2026.6
     # via python-dateutil
