@@ -132,5 +132,5 @@ valkey==6.1.1
     # via -r requirements/lint.in
 virtualenv==21.15.2
     # via pre-commit
-zlib-ng==1.0.0
+zlib-ng==1.1.0
     # via -r requirements/lint.in
