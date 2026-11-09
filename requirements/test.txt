@@ -151,5 +151,5 @@ wait-for-it==2.3.0
     # via -r requirements/test-common.in
 yarl==1.25.1
     # via -r requirements/runtime-deps.in
-zlib-ng==1.0.0
+zlib-ng==1.1.0
     # via -r requirements/test-common.in

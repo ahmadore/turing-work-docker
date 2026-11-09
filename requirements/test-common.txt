@@ -113,5 +113,5 @@ tzdata==2026.6
     # via python-dateutil
 wait-for-it==2.3.0
     # via -r requirements/test-common.in
-zlib-ng==1.0.0
+zlib-ng==1.1.0
     # via -r requirements/test-common.in
