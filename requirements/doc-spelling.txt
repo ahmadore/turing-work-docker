@@ -28,7 +28,7 @@ jinja2==3.1.6
     #   towncrier
 markupsafe==3.0.4
     # via jinja2
-packaging==26.3
+packaging==26.4
     # via sphinx
 pyenchant==3.3.0
     # via sphinxcontrib-spelling
